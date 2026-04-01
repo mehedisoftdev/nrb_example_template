@@ -1,7 +1,7 @@
 # 📊 nrb (Nexora Report Builder Template Source Code)
 
 - What is NRB (Nexora Report Builder) ?
-A customizable and highly responsive Flutter table widget builder designed for complex, nested headers and dynamic data visualization. Ideal for enterprise dashboards, inventory tracking, financial reports, or structured data-entry UIs.
+- A customizable and highly responsive Flutter table widget builder designed for complex, nested headers and dynamic data visualization. Ideal for enterprise dashboards, inventory tracking, financial reports, or structured data-entry UIs.
 
 ---
 
